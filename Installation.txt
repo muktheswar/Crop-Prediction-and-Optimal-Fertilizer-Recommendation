@@ -1,0 +1,16 @@
+Step 1: Install Anaconda
+Step 2: extract the Zip folder on desktop
+Step 3: open Anaconda Prompt
+Step 4: cd to directory in Step 2
+Step 5: Execute the following command on Anaconda Promt
+        conda env create -f environment.yml
+
+Step 6: Execute the following command
+        conda activate crop_pred2
+
+Step 7: Execute following command
+        python app.py
+Step 8: open chrome and go to 
+        http://127.0.0.1:5000/
+
+-----------Done--------------------------------------------------
